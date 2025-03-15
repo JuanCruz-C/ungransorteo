@@ -1,4 +1,4 @@
-se el desafio del amigo secretro
+se crea el desafio del amigo secretro
 
 carga realizada en forma correcta
 
